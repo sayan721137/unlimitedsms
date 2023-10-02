@@ -144,28 +144,15 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 - Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
 - Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
 
-## Contributors
-
-- Catch **[t0xic0der](https://github.com/t0xic0der)** at https://atlasdoc.netlify.app
-- Check **[Avinash](https://github.com/AvinashReddy3108)** at https://github.com/AvinashReddy3108
-- Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
-- Mail **[0n1cOn3](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
-- Ping **Rieltar** at https://t.me/RieltarReborn
 
 
-### Donators:
 
-- **[34D30Y](34db0y@protonmail.com)**
-- **SC AMAN**
 
 ## FAQ
 
 **Q:** Is there any TBomb Website/App ?
 
-**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](https://github.com/TheSpeedX/TBomb) and [PyPi](https://pypi.org/project/tbomb)
-##
-**Q:** Poor Internet Connection Detected:
-
+\
 **A:** Here are a few stuff you can try:
 - Check your connection.
 - Make sure `openssl` is installed.
@@ -216,7 +203,6 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 ##
 ### Support
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
 Contributions, issues, and feature requests are welcome!  
 Give a ★ if you like this project!
 
